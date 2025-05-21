@@ -15,7 +15,7 @@
 
         <Label text="Ajouter un Médecin" styleClass="header-title"/>
 
-        <TextField fx:id="tfNom" promptText="Nom"/>
+        <TextField fx:id="tfNom" promptText="Noom"/>
         <TextField fx:id="tfPrenom" promptText="Prénom"/>
         <TextField fx:id="tfSpecialite" promptText="Spécialité"/>
         <TextField fx:id="tfTelephone" promptText="Téléphone"/>

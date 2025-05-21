@@ -261,7 +261,7 @@ public class DashboardController {
             showAlert("Erreur lors du chargement de la liste des utilisateurs: " + e.getMessage());
         }
     }
-
+     
     @FXML
     private void handleRendezVous() {
         try {

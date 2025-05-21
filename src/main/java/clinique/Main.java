@@ -11,7 +11,7 @@ import javafx.animation.PauseTransition;
 
 public class Main extends Application {
 
-    @Override
+    @Override   
     public void start(Stage primaryStage) throws Exception {
         FXMLLoader splashLoader = new FXMLLoader(getClass().getResource("/views/splash.fxml"));
         Parent splashRoot = splashLoader.load();
